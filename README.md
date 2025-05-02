@@ -29,6 +29,7 @@ To build an interactive terminal-based simulator using OOP concepts in Python. U
 
 Create your pet and interact through a simple terminal menu:
 
+
 1. 🍖 Feed your pet
 2. ⚽ Play with your pet
 3. ✍️  Teach your pet a trick
@@ -37,3 +38,85 @@ Create your pet and interact through a simple terminal menu:
 6. 🎃 Show known tricks
 7. 🎮 Play a mini-game
 8. ❌ Exit
+```
+
+---
+
+## 🔥 Bonus Features
+
+- 🎮 **Mini-Game**: Number guessing game that boosts happiness and XP!
+- 🎓 **Training System**: Teach tricks based on your pet’s mood and energy.
+- ❤️ **Favourite Food**: Feed your pet what it loves most for bonus happiness!
+- 😴 **Mood Mechanics**: Pet moods dynamically shift based on stats.
+- 🧠 **Randomized Pet Names and Personalities** to keep it fresh every time.
+
+---
+
+## 🐍 Tech Stack
+
+- Python 3.x
+- OOP Principles (Classes, Methods, Attributes)
+- Random module
+- Sleep/time simulation for realism
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/virtual-pet-simulator.git
+   cd virtual-pet-simulator
+   ```
+
+2. Run the simulator:
+   ```bash
+   python main.py
+   ```
+
+3. Enjoy your digital buddy! 🎮
+
+---
+
+## 📂 File Structure
+
+```text
+├── main.py        # Main game loop and user interface
+├── pet.py         # Pet class definition with all attributes and methods
+└── Readme.md      # Project documentation (this file!)
+```
+
+---
+
+## 👨‍💻 Made with 💚 by
+
+- Denzel Odhiambo
+
+---
+
+## 📸 Sneak Peek
+
+> _"You played with Luna! Luna is ecstatic! 🎉"_  
+> _"Luna has learned a new trick: Backflip!"_  
+> _"Luna’s current mood: Happy 😊"_
+
+---
+
+## 💡 What You’ll Learn
+
+- Object-Oriented Programming (OOP)
+- State management in simulations
+- Working with time delays and random events
+- Writing interactive command-line applications
+
+---
+
+## 🏁 Future Ideas
+
+- Save/load pet profiles
+- More interactive games
+- Sound or graphical UI using Pygame
+
+---
+
+## 🐾 Thanks for playing! Your virtual pet says hi! 👋
