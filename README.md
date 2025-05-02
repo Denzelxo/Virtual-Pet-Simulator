@@ -65,7 +65,7 @@ Create your pet and interact through a simple terminal menu:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/virtual-pet-simulator.git
+   git clone https://github.com/Denzelxo/Virtual-Pet-Simulator.git
    cd virtual-pet-simulator
    ```
 
